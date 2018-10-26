@@ -4,3 +4,13 @@
 /spring/spring-aop/target
 /spring/spring-aop/spring-aop.iml
 /spring/spring-aop/.idea
+/java/fork-join/out
+/java/fork-join/*.iml
+/java/fork-join/fork-join.iml
+/java/fork-join/.idea
+/tomcat7/tomcat-servlet/.idea
+*.iml
+/tomcat7/tomcat-servlet/target
+/java/hprof-demo/.idea
+/java/hprof-demo/out
+/java/hprof-demo/*.iml
