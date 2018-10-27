@@ -1,0 +1,2 @@
+# spring starter 配置自动配置类 ;多个配置类，并通过逗号(,)分隔
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kongxiang.config.HelloConfig
