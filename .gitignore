@@ -14,3 +14,6 @@
 /java/hprof-demo/.idea
 /java/hprof-demo/out
 /java/hprof-demo/*.iml
+.idea
+target
+/rabbitmq-tutorial/*.iml
